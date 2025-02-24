@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **java, python, kotlin**
 
-- 💬 Ask me about **C , C++**
+- 💬 Ask me about **C , C++ , Java**
 
 - 📫 How to reach me **dilshancodherath@gmail.com**
 

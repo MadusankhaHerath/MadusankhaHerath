@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Theater management system**
 
-- 🌱 I’m currently learning **java, python, kotlin**
+- 🌱 I’m currently learning **Spring boot**
 
 - 💬 Ask me about **C , C++ , Java**
 

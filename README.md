@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madusankhaherath&label=Profile%20views&color=0e75b6&style=flat" alt="madusankhaherath" /> </p>
 
-- 🔭 I’m currently working on **Logging System**
+- 🔭 I’m currently working on **Loggin System**
 
 - 🌱 I’m currently learning **Spring boot**
 

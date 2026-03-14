@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Loggin System**
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **Spring boot, .net , Angular**
 
-- 💬 Ask me about **C , C++ , Java**
+- 💬 Ask me about **C , Java**
 
 - 📫 How to reach me **dilshancodherath@gmail.com**
 
